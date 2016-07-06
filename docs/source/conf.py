@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# reformagkh documentation build configuration file, created by
+# UpravdomGKH documentation build configuration file, created by
 # sphinx-quickstart on Fri Jun 24 11:38:37 2016.
 #
 # This file is execfile()d with the current directory set to its
@@ -50,7 +50,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'reformagkh'
+project = u'Управдом'
 copyright = u'2016, Infinnity Solutions'
 author = u'Infinnity Solutions'
 
@@ -133,7 +133,7 @@ html_theme = 'default'
 
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
-#html_title = u'reformagkh v1.5.0'
+#html_title = u'upravdomgkh v0.8.0'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
@@ -233,7 +233,7 @@ html_static_path = ['_static']
 # html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'reformagkhdoc'
+htmlhelp_basename = 'upravdomgkhdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -259,7 +259,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'reformagkh.tex', u'reformagkh Documentation',
+    (master_doc, 'upravdomgkh.tex', u'upravdomgkh Documentation',
      u'Infinnity Solutions', 'manual'),
 ]
 
@@ -295,7 +295,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'reformagkh', u'reformagkh Documentation',
+    (master_doc, 'upravdomgkh', u'upravdomgkh Documentation',
      [author], 1)
 ]
 
@@ -310,8 +310,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'reformagkh', u'reformagkh Documentation',
-     author, 'reformagkh', 'One line description of project.',
+    (master_doc, 'upravdomgkh', u'upravdomgkh Documentation',
+     author, 'upravdomgkh', 'One line description of project.',
      'Miscellaneous'),
 ]
 

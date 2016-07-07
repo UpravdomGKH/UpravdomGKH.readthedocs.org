@@ -50,7 +50,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Управдом'
+project = u'Управдом ЖКХ'
 copyright = u'2016, Infinnity Solutions'
 author = u'Infinnity Solutions'
 

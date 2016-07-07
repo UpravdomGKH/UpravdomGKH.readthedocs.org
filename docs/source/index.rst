@@ -13,7 +13,8 @@
    03-work-section-mkd/index.rst
    04-management-agreements/index.rst
    05-services-performed/index.rst
-
+   06-comm-services/index.rst
+   
 
 
 Указатель и содержание

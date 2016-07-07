@@ -1,0 +1,8 @@
+Нажмите на кнопку «Добавить организацию».
+
+.. image:: ../_images/02-employment-section-organization/7.png
+
+Заполните поля открывшейся формы, сведениями об организации и нажмите кнопку «Сохранить».
+
+.. image:: ../_images/02-employment-section-organization/8.png
+

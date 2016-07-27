@@ -17,12 +17,3 @@
    07-event-log/index.rst
    08-administration/index.rst
    09-personal-account/index.rst
-
-
-Указатель и содержание
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-

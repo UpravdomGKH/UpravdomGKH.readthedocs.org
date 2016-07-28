@@ -9,7 +9,6 @@
 
 .. include:: 2.3.rst
 
-.. include:: 2.4.rst
 
 
 

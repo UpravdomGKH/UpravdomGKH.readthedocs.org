@@ -1,9 +1,9 @@
 Как скачать и установить принтер?
 ---------------------
 
-Для работы с принтером скачайте и установите Microsoft .NET Framework 4.5 по `ссылке <https://www.microsoft.com/en-us/download/details.aspx?id=30653>`_  
+Для работы с принтером скачайте и установите Microsoft .NET Framework 4.5 по `ссылке <https://www.microsoft.com/ru-ru/download/details.aspx?id=30653>`_  
 
-.. image:: ../_images/02-employment-section-organization/17.png
+.. image:: ../_images/02-employment-section-organization/34.png
 
 Затем перейти в раздел "Администрирование", системы "Управдом ЖКХ".
 
@@ -14,26 +14,26 @@
 
 .. image:: ../_images/02-employment-section-organization/18.png
 
-Выберите версию, соответствующую характеристикам вашего компьютера.  Узнать версию вашей ОС можно нажав кнопку "Пуск", выбрать "Программы".
+Выберите версию, соответствующую характеристикам вашего компьютера.  Узнать версию вашей ОС можно нажав кнопку "Пуск", выбрать "Компьютер".
 
-.. image:: ../_images/02-employment-section-organization/19.png
+.. image:: ../_images/02-employment-section-organization/35.png
 
 Затем в открывшемся окне, кликните правой кнопки мыши и выберете "Свойства".
 
 
-.. image:: ../_images/02-employment-section-organization/20.png
+.. image:: ../_images/02-employment-section-organization/36.png
 
 В новом окне, вы можете посмотреть системные характеристики вашего компьютера.
 
 .. image:: ../_images/02-employment-section-organization/21.png
 
 
-Если у вас указано 64 - bit, вам требуется принтер х64.
+Если у вас указано 64 - разрядная операционная система, вам требуется принтер х64.
 
 .. image:: ../_images/02-employment-section-organization/22.png
 
 
-Если у вас указано значение 32 - bit, вам требуется принтер х86.
+Если у вас указано значение 32 - разрядная операционная система, вам требуется принтер х86.
 
 .. image:: ../_images/02-employment-section-organization/23.png
 
@@ -43,9 +43,9 @@
 
 В открывшемся окне, нажмите кнопку "Run" и продолжите установку принтера. Для того чтобы открыть интерфейс принтера,кликните два раза левой кнопки мыши по значку.
 
-.. image:: ../_images/02-employment-section-organization/25.png
+.. image:: ../_images/02-employment-section-organization/37.png
 
 Также вы можете открыть принтер из меню "Пуск".
 
-.. image:: ../_images/02-employment-section-organization/26.png
+.. image:: ../_images/02-employment-section-organization/38.png
 

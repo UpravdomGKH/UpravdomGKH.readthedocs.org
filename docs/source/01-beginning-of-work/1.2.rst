@@ -1,4 +1,4 @@
 Как зарегистрировать свою организацию в ГИС ЖКХ?
 ------------------------------------
 
-Подробная инструкция по регистрации организации в `ГИС ЖКХ <http://dom.gosuslugi.ru/>`_ , доступна по `ссылке <http://dom.gosuslugi.ru/filestore/publicDownloadServlet?context=contentmanagement&uid=b40bd77c-2726-4422-9ef2-0ad55365db0a>`_.
+Подробная инструкция по регистрации организации в `ГИС ЖКХ <http://dom.gosuslugi.ru/>`_  доступна по `ссылке <http://dom.gosuslugi.ru/filestore/publicDownloadServlet?context=contentmanagement&uid=b40bd77c-2726-4422-9ef2-0ad55365db0a>`_.

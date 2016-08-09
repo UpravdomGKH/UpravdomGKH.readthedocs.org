@@ -1,53 +1,56 @@
 Как скачать и установить принтер?
 ---------------------
 
-Для работы с принтером скачайте и установите Microsoft .NET Framework 4.5 по `ссылке <https://www.microsoft.com/ru-ru/download/details.aspx?id=30653>`_  
+Для работы с принтером необходимо: 
 
-.. image:: ../_images/02-employment-section-organization/34.png
+1. Скачать и установить Microsoft .NET Framework 4.5 по `ссылке <https://www.microsoft.com/ru-ru/download/details.aspx?id=30653>`_  
 
-Затем перейти в раздел "Администрирование", системы "Управдом ЖКХ".
+	.. image:: ../_images/02-employment-section-organization/34.png
 
+2. Перейти в раздел «Администрирование», системы «Управдом ЖКХ».
 
-.. image:: ../_images/02-employment-section-organization/16.png
+	.. image:: ../_images/02-employment-section-organization/16.png
 
-Нажмите на кнопку "Скачать драйвер"
+3. Нажать кнопку «Скачать драйвер».
 
-.. image:: ../_images/02-employment-section-organization/18.png
+	.. image:: ../_images/02-employment-section-organization/18.png
 
-Выберите версию, соответствующую характеристикам вашего компьютера.  Узнать версию вашей ОС можно нажав кнопку "Пуск", выбрать "Компьютер".
+4. Выбрать версию, соответствующую характеристикам вашего компьютера.  
 
-.. image:: ../_images/02-employment-section-organization/35.png
+ Узнать версию вашей Операционной Системы можно: 
 
-Затем в открывшемся окне, кликните правой кнопки мыши и выберете "Свойства".
+ - нажать кнопку «Пуск»; 
+ - выбрать «Компьютер»;
 
+	.. image:: ../_images/02-employment-section-organization/35.png
 
-.. image:: ../_images/02-employment-section-organization/36.png
+ - в открывшемся окне, нажать правую кнопку мыши и выбрать «Свойства»;
 
-В новом окне, вы можете посмотреть системные характеристики вашего компьютера.
+	.. image:: ../_images/02-employment-section-organization/36.png
 
-.. image:: ../_images/02-employment-section-organization/21.png
+ - В новом окне представлены системные характеристики компьютера:
 
+  a. При 64 - разрядной операционной системе в необходимо скачать принтер х64.
+  b. При 32 - разрядной операционной системе в необходимо скачать принтер х86.
+	.. image:: ../_images/02-employment-section-organization/21.png
 
-Если у вас указано 64 - разрядная операционная система, вам требуется принтер х64.
+5. Скачать необходимую версию принтера.
 
-.. image:: ../_images/02-employment-section-organization/22.png
+	.. image:: ../_images/02-employment-section-organization/22.png  
+ 
+	.. image:: ../_images/02-employment-section-organization/23.png
 
+6. После завершения загрузки открыть загруженный файл и установить принтер согласно пошаговым указаниям.
 
-Если у вас указано значение 32 - разрядная операционная система, вам требуется принтер х86.
+	.. image:: ../_images/02-employment-section-organization/24.png
 
-.. image:: ../_images/02-employment-section-organization/23.png
+7. Запустить установленный драйвер принтера из меню «Пуск».
 
-После того, как загрузка завершится, откройте загруженный файл, и установите принтер согласно пошаговым указаниям.
+	.. image:: ../_images/02-employment-section-organization/38.png
 
-.. image:: ../_images/02-employment-section-organization/24.png
+8. Для того, чтобы открыть интерфейс принтера, кликните два раза левой кнопки мыши по значку по значку принтера в системном трее.
 
-Запустите установленный драйвер принтера из меню "Пуск".
-
-.. image:: ../_images/02-employment-section-organization/38.png
-
-Для того, чтобы открыть интерфейс принтера, кликните два раза левой кнопки мыши по значку по значку принтера в системном трее.
-
-.. image:: ../_images/02-employment-section-organization/37.png
+	.. image:: ../_images/02-employment-section-organization/37.png
 
 
 

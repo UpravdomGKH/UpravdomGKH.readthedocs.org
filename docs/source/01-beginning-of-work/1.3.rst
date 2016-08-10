@@ -9,22 +9,22 @@
 
 3. В главном меню выбрать раздел «Администрирование» - «Предоставление прав доступа» – «Заявки».
 
-.. image:: ../_images/02-employment-section-organization/39.png
+.. image:: ../_images/01-beginning-of-work/39.png
 
 4. Нажать кнопку «Предоставить доступ оператору ИС».
 
-.. image:: ../_images/02-employment-section-organization/40.png
+.. image:: ../_images/01-beginning-of-work/40.png
 
 5. В разделе заявки «Получатель прав доступа» нажать кнопку «Выбрать оператора ИС».
 
-.. image:: ../_images/02-employment-section-organization/41.png
+.. image:: ../_images/01-beginning-of-work/41.png
 
 6. В окне «Выбор организации» ввести наименование организации «Инфиннити», затем найти и выбрать - ООО "Инфиннити».
 
-.. image:: ../_images/02-employment-section-organization/42.png
+.. image:: ../_images/01-beginning-of-work/42.png
 
 7. В поле «Наименование ИС» выбрать «УправдомЖКХ» и указать виды информации, по которым необходимо делегировать права.
 
-.. image:: ../_images/02-employment-section-organization/43.png
+.. image:: ../_images/01-beginning-of-work/43.png
 
 8. Нажать кнопку «Отправить заявку». 

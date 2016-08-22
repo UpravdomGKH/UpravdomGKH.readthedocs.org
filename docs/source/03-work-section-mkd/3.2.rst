@@ -15,7 +15,7 @@
 
 Если договор/ы управления уже создан/ы, следует перейти к выполнению шагов 1 и 2.
 
-.. image:: ../_images/03-work-section-mkd/30.png
+	.. image:: ../_images/03-work-section-mkd/30.png
 
 
 

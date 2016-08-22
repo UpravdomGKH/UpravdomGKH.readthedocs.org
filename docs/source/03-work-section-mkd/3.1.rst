@@ -19,11 +19,13 @@
 
 1. Перейти в раздел «МКД».
 
+	.. image:: ../_images/03-work-section-mkd/1.png
+
 2. Выбрать необходимые для выгрузки дома.
 
 3. Нажать кнопку «Выгрузить в Excel».
 
-.. image:: ../_images/03-work-section-mkd/113.png
+	.. image:: ../_images/03-work-section-mkd/113.png
 
 **Раскрыть сведения по многоквартирным домам с помощью сервисов ГИС ЖКХ:**
 
@@ -33,4 +35,4 @@
 
 3. Нажать кнопку «Опубликовать данные».
 
-.. image:: ../_images/03-work-section-mkd/55.png
+	.. image:: ../_images/03-work-section-mkd/55.png

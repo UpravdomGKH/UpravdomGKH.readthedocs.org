@@ -5,7 +5,7 @@
 
  	.. image:: ../_images/02-work-section-mkd/gen.png
 
-**Как отправить квитанцию и создать лицевой счёт описано в** `разделе 3  <http://upravdomgkh.readthedocs.io/ru/release-1.0.7/03-employment-section-organization/index.html>`_. 
+**Как отправить квитанцию и создать лицевой счёт описано в** `разделе 3  <http://upravdomgkh.readthedocs.io/ru/latest/03-employment-section-organization/index.html>`_. 
 
 После отправки квитанции информация о прогрессе загрузки в сервис «Управдом ЖКХ» размещается в разделе «Мониторинг статуса квитанций» и автоматически создаётся лицевой счёт в разделе «Лицевые счета».
 

@@ -68,6 +68,7 @@
 	.. image:: ../_images/02-work-section-mkd/69.png
 
 13. Проверить статус обработки файла.
+
 	.. image:: ../_images/02-work-section-mkd/70.png
 	
 14. Нажать кнопку «Просмотреть отчёт».

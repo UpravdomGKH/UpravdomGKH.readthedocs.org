@@ -2,7 +2,7 @@
 ======================
 **Если у Вас имеются данные на портале** `Реформа ЖКХ <https://www.reformagkh.ru/>`_, **то их можно импортировать в сервис «Управдом ЖКХ».**
 
-**Как внести данные вручную описано в** `разделе 4 <http://upravdomgkh.readthedocs.io/ru/latest/04-management-agreements/index.html>`_.
+**Как внести данные вручную описано в** `разделе 4 <http://upravdomgkh.readthedocs.io/ru/release-1.0.9-pzreu/04-management-agreements/index.html>`_.
 
 
 .. include:: 2.1.rst

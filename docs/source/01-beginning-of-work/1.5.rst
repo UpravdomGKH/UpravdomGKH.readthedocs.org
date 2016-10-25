@@ -50,7 +50,10 @@
 
 	.. image:: ../_images/01-beginning-of-work/60.png	
 	
- 
  3. Сохранить изменения.
+ 
+ **После этого специалист «Управдом ЖКХ» должен одобрить изменения информации в личном кабинете для вступления их в силу.**
+ 
+	.. image:: ../_images/01-beginning-of-work/73.png	
  
  **Как разместить данные в ГИС ЖКХ описано в** `разделе 2 <http://upravdomgkh.readthedocs.io/ru/latest/02-work-section-mkd/index.html>`_. 

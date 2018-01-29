@@ -7,9 +7,9 @@
 
 1. Скачать руководство пользователя:
 
-	* `Руководство пользователя по работе в личном кабинете Управляющей Организации <https://dom.gosuslugi.ru/filestore/publicDownloadServlet?context=contentmanagement&uid=277520ba-6bc4-4700-ae7c-68f34283e4b4>`_ - раздел «6.6.1 Договоры управления».
+	* `Руководство пользователя по работе в личном кабинете Управляющей Организации <https://dom.gosuslugi.ru/filestore/publicDownloadServlet?context=contentmanagement&uid=e0db160b-722e-4fe8-861a-6071bac33d65&mode=view>`_ - раздел «4.2.5.1 Договоры управления».
 
-	* `Руководство пользователя по работе в личном кабинете ТСЖ, ЖК, ЖСК и иного кооператива <https://dom.gosuslugi.ru/filestore/publicDownloadServlet?context=contentmanagement&uid=f58b5e28-8904-43d9-8a13-974ab7f66d82>`_ - раздел «5.4.1. Договоры управления (уставы)».
+	* `Руководство пользователя по работе в личном кабинете ТСЖ, ЖК, ЖСК и иного кооператива <https://dom.gosuslugi.ru/filestore/publicDownloadServlet?context=contentmanagement&uid=1a93b780-cf1b-4019-b791-927887f7b91a&mode=view>`_ - раздел «4.4.1. Договоры управления (уставы)».
 
 2. Перейти на сайт `ГИС ЖКХ <http://dom.gosuslugi.ru/>`_.
 

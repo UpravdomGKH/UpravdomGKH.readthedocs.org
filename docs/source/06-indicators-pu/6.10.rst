@@ -1,0 +1,22 @@
+Комбинированные виды расчета объемов потребления ИПУ
+------------------------------------------
+
+.. image:: ../_images/06-indicators-pu/69.png
+
+.. image:: ../_images/06-indicators-pu/70.png
+
+.. image:: ../_images/06-indicators-pu/71.png
+
+.. image:: ../_images/06-indicators-pu/72.png
+
+.. image:: ../_images/06-indicators-pu/73.png
+
+.. image:: ../_images/06-indicators-pu/74.png
+
+.. image:: ../_images/06-indicators-pu/75.png
+
+.. image:: ../_images/06-indicators-pu/76.png
+
+где N - количество загруженных строк с данными по объемам потребления, в одном файле, для одного помещения.
+
+

@@ -12,5 +12,7 @@
    02-work-section-mkd/index.rst
    03-employment-section-organization/index.rst
    04-management-agreements/index.rst
+   05-metering-device/index.rst
+   06-indicators-pu/index.rst
 
    
